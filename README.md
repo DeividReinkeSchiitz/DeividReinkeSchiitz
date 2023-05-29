@@ -1,3 +1,4 @@
+<!--https://camo.githubusercontent.com/7e2eb2cdb066ba70bd67d1c0c5d606bc92f15e127d6bbb0e4acc6d33af746ffc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4465697669645265696e6b655363686969747a2673697a655f7765696768743d302e3526636f756e745f7765696768743d302e3526686964655f626f726465723d74727565267468656d653d7472616e73706172656e7426686964653d6a6176617363726970742c68746d6c266c616e67735f636f756e743d38266c61796f75743d636f6d70616374-->
 <p align="center"> 
   <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47tscqps0m9i2jyfzz7ywzqrsx0z3wcrt5h4k7k5f5&ep=v1_gifs_search&rid=giphy.gif&ct=g"/><br
   <samp>Hi, My name is Deivid R. Schutz. I am a Computer Science college student from UFMS in Brazil and im a progamming 🇧🇷📚📈🔬. In my repos you'll find some projects that i have no shame to share 🤧🤧
