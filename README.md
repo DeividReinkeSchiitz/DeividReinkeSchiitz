@@ -18,7 +18,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividReinke
  
   ## Contact Me 📫
   Feel free to reach out to me if you have any question or ideas!
-  - Email: [![Gmail Badge](https://img.shields.io/badge/-deividrs34@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deividrs34@gmail.com)](mailto:deividrs34@gmail.com)
+  - Email: [![Gmail Badge](https://img.shields.io/badge/-deivid@schiitz.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deivid@schiitz.com)](mailto:deivid@schiitz.com)
   - Whatsapp: [![WhatsApp Badge](https://img.shields.io/badge/(66)%20996721039-25D366?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/5566996721039?text=Hi)](https://wa.me/5566996721039?text=Hi)
   - If you think the government is spying you or you just wanna send a secure message, fell free to use my public key: <br/><br/>
   ```
