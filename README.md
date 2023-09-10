@@ -2,8 +2,8 @@
 <!-- TOP CONTENT -->
 <p align="center"> 
   <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47tscqps0m9i2jyfzz7ywzqrsx0z3wcrt5h4k7k5f5&ep=v1_gifs_search&rid=giphy.gif&ct=g"/><br/>
-  <samp>Hi, My name is Deivid R. Schutz. I am a Computer Science college student from UFMS in Brazil and im a progamming 🇧🇷📚📈🔬. 
-  In my repos you'll find some projects that i have no shame to share 🤧🤧 </samp>
+  <samp>Hi, My name is Deivid R. Schutz. I am a Computer Science college student from UFMS in Brazil and im a progamming. 
+  In my repos you'll find some projects that i have no shame to share</samp>
 </p>
  
 
