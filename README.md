@@ -8,7 +8,7 @@
  
 
 ## Some stats that may have some meaning
-<samp> My c/c++ code is private so the "Most used Languages" is a static version</samp>
+<!-- <samp> My c/c++ code is private so the "Most used Languages" is a static version</samp>-->
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeividReinkeSchiitz&theme=transparent&show_icons=true&hide_border=true" />
 <!--   <img 
