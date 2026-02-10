@@ -8,14 +8,13 @@
  
 
 ## Some stats that may have some meaning
-<!-- <samp> My c/c++ code is private so the "Most used Languages" is a static version</samp>-->
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeividReinkeSchiitz&theme=transparent&show_icons=true&hide_border=true" />
-  <img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividReinkeSchiitz&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent&hide=&langs_count=8&layout=compact" />
-<!--   <img src="https://raw.githubusercontent.com/DeividReinkeSchiitz/DeividReinkeSchiitz/9cf0547fdd15b1ac7e3841bd43d1ff0d044da833/most_used.svg" alt="h"/>   -->
+<p align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeividReinkeSchiitz&theme=transparent" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeividReinkeSchiitz&theme=transparent" />
 </p>
- 
+  
+
+  
   ## Contact Me
   Feel free to reach out to me if you have any question or ideas!
   - Email: [![Gmail Badge](https://img.shields.io/badge/-deivid@schiitz.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deivid@schiitz.com)](mailto:deivid@schiitz.com)
